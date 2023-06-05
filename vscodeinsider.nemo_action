@@ -8,5 +8,5 @@ Icon-Name=visual-studio-code-insiders
 Selection=none
 Extensions=any;
 Quote=double
-Dependencies=code;
+Dependencies=code-insiders;
 
