@@ -7,11 +7,11 @@ So, for adding the `open in vscode` option, you just need to place the file `vsc
 # Installation
 
 ```shell
-sudo wget https://raw.githubusercontent.com/Justwouter/nemo-open-in-vscode-insiders/master/vscodeinsider.nemo_action -O ~/.local/share/nemo/actions/vscodeinsider.nemo_action
+wget https://raw.githubusercontent.com/Justwouter/nemo-open-in-vscode-insiders/master/vscodeinsider.nemo_action -O ~/.local/share/nemo/actions/vscodeinsider.nemo_action
 ```
 
 Or, clone this repository and run:
 
 ```shell
-sudo cp nemo-open-in-vscode-insiders/vscodeinsider.nemo_action ~/.local/share/nemo/actions
+cp nemo-open-in-vscode-insiders/vscodeinsider.nemo_action ~/.local/share/nemo/actions
 ```
